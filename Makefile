@@ -29,7 +29,7 @@ install:
 
 uninstall:
 	@if [ "$$(id -u)" = "0" ]; then \
-		echo " 	Please run 'make install' as a normal user. Exiting for safety."; \
+		echo " 	Please run 'make uninstall' as a normal user. Exiting for safety."; \
 		exit 1; \
 	fi
 	@echo "Checking and removing installed wallpapers from $(DEST_DIR)/"
