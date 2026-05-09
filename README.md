@@ -1,5 +1,7 @@
 # Background wallpapers, taken by Senni.
 
+## ARCHIVED, MOVED TO GITLAB https://gitlab.com/senni-huemwang/backgrounds
+
 ![example](example.webp)
 
 All pictures presented in this repository is my own.
